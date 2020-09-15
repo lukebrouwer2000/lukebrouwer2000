@@ -13,6 +13,6 @@
 
 ---
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=lukebrouwer2000theme=gradient)](https://github.com/anuraghazra/github-readme-stats) 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=lukebrouwer2000theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 
