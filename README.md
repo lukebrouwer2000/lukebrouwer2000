@@ -3,9 +3,9 @@
 
 ## I am a second year Software Engineering student at San Jose State University!
 
-- I’m currently working on a two-person project developing the log-in and sign-up authentication for a website!
-- Main Languages: Java and Python
-- Experience with: C, C++, hint of JavaScript
+- I recently finished a six person project developing an online banking application using PHP, JavaScript, Amazon Web Services, and MySQL
+- Main Languages: Java and JavaScript
+
 
 
 <br />
